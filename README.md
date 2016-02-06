@@ -1,22 +1,24 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+Calorie convertor is a simple fitness helper app. At the top there is a number of calories, and following that, a list of many exercises. You’ll notice there are many numbers on the side that are underlined. All of these numbers are text fields, and if we tap on any of them and then change their numbers, then all the other values will be dynamically updated. The app starts with the “number of calories” field already selected, so the user will know that they can make changes to these fields. 
+
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Jasper Louie ([jasper.louie@berkeley.edu](mailto:jasper.louie@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See Calorie Converter for CS160 Prog1  (https://youtu.be/MkrhbIuL-3o)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/image00.png" height="400" alt="Screenshot1"/>
+<img src="screenshots/image02.png" height="400" alt="Screenshot2"/>
+<img src="screenshots/image03.png" height="400" alt="Screenshot3"/>
+<img src="screenshots/image04.png" height="400" alt="Screenshot4"/>
+<img src="screenshots/image01.png" height="400" alt="Screenshot5"/>
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
-
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
+Icons used from the noun project, on thenounproject.com
