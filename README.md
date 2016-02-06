@@ -1,6 +1,6 @@
 # PROG 01: Crunch Time
 
-Calorie convertor is a simple fitness helper app. At the top there is a number of calories, and following that, a list of many exercises. You’ll notice there are many numbers on the side that are underlined. All of these numbers are text fields, and if we tap on any of them and then change their numbers, then all the other values will be dynamically updated. The app starts with the “number of calories” field already selected, so the user will know that they can make changes to these fields. 
+Calorie converter is a simple fitness helper app. At the top there is a number of calories, and following that, a list of many exercises. You’ll notice there are many numbers on the side that are underlined. All of these numbers are text fields, and if we tap on any of them and then change their numbers, then all the other values will be dynamically updated. The app starts with the “number of calories” field already selected, so the user will know that they can make changes to these fields. 
 
 
 ## Authors
